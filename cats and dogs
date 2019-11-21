@@ -1,0 +1,10 @@
+cats = 15
+dogs = 15
+
+if cats > dogs
+  print "cats are better than dogs"
+elsif cats < dogs
+  print "dogs are better than cats"
+else
+  print "cats and dogs are great"
+end
