@@ -1,0 +1,23 @@
+# greets the user by name
+
+def greeter(name)
+  return "hello, " + name + "!"
+end
+
+output = greeter("luna")
+puts output
+
+# if a number is evenly divisible by 3, it returns true.
+# if a number is not, it returns false.
+
+def by_three?(number)
+  if number % 3 == 0
+    return true
+  else false
+  end
+end
+
+output = by_three?(3)
+puts output
+output = by_three?(4)
+puts output
