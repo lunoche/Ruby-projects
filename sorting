@@ -1,0 +1,11 @@
+# sort in ascending order
+
+fruits = ["orange", "apple", "banana", "pear", "grapes"]
+fruits.sort!
+puts fruits
+
+# sort in descending order
+
+fruits = ["orange", "apple", "banana", "pear", "grapes"]
+fruits.sort! { |firstFruit, secondFruit| secondFruit <=> firstFruit }
+puts fruits
