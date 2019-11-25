@@ -7,4 +7,4 @@ I'm learning Ruby, so here are the programs I'm making to learn.<br>
   ==> redacted - user inputs text and chooses a word to redact, the program will then redact it.<br>
   ==> word counter - user inputs words, a sentence, whatever, and this will count how many times words come up.<br>
   ==> methods - greets the user by name AND if a number is evenly divisible by 3, it says it's true. if it's not, it says it's false.<br>
-  ==> sorting - sorts a list in ascending and descending order.
+  ==> sorting - sorts strings and numbers in ascending and descending order.
